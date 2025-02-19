@@ -1,4 +1,4 @@
-package javaLabCard1;
+package CloseLabBook;
 import java.util.Arrays;
 
 public class ResizeAnArray {
@@ -23,4 +23,3 @@ public class ResizeAnArray {
 	        return newArray;
 	    }
 	}
-

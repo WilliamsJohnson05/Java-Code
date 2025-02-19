@@ -1,4 +1,4 @@
-package javaLabCard1;
+package CloseLabBook;
 
 public class PrimitiveTypes {
 	    static boolean BooleanDefault;
@@ -23,5 +23,4 @@ public class PrimitiveTypes {
 	        System.out.println("Double: " + DoubleDefault);
 	    }
 	}
-
 

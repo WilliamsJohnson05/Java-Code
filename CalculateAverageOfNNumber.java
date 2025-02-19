@@ -1,4 +1,4 @@
-package javaLabCard1;
+package CloseLabBook;
 
 public class CalculateAverageOfNNumber {
 	    public static void main(String[] args) {
@@ -16,5 +16,3 @@ public class CalculateAverageOfNNumber {
 	        return (double) sum / numbers.length;
 	 }
 }
-
-

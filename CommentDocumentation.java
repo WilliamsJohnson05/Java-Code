@@ -6,10 +6,7 @@ public class CommentDocumentation {
 	 * It demonstrates different ways to define the main method and its execution.
 	 */
 
-	    /**
-	     * This is the main method with public and static specifiers, and it takes an array of strings as parameters.
-	     * It prints a simple message to the console.
-	     */
+	    
 	    public static void main(String[] args) {
 	        System.out.println("Executing main method with public and static specifiers: ");
 	    }

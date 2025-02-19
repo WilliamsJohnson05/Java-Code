@@ -1,4 +1,4 @@
-package javaLabCard1;
+package CloseLabBook;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -55,5 +55,4 @@ public class SortAnArrayInAscOrDesc {
         }
     }
 }
-
 
