@@ -1,4 +1,4 @@
-package javaLabCard1;
+package OpenLabBook;
 
 public class QuotientAndRemainder {
     private static int dividend;

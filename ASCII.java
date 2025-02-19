@@ -1,8 +1,8 @@
-package javaLabCard1;
+package OpenLabBook;
 
 public class ASCII {
    public static void main(String[] args) {
-	char ch = 'R';
+	char ch = 'r';
 	int ASCII = ch;
 	//I used here to convert char to int
 	

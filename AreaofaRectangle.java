@@ -1,4 +1,4 @@
-package javaLabCard1;
+package OpenLabBook;
 import java.util.Scanner;
 
 public class AreaofaRectangle {

@@ -1,4 +1,4 @@
-package CloseLabBook;
+package OpenLabBook;
 
 public class CheckPrimeNumbers {
 	    public static void main(String[] args) {

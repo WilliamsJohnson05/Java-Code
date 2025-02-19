@@ -1,4 +1,4 @@
-package javaLabCard1;
+package OpenLabBook;
 
 import java.util.Scanner;
 
@@ -20,5 +20,4 @@ public class FloydTriangle {
 	System.out.println();
 		
 	}
-
 }

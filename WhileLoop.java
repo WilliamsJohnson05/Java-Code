@@ -1,14 +1,14 @@
-package javaLabCard1;
+package OpenLabBook;
 
 import java.util.Scanner;
 
 public class WhileLoop {
 	public static void main(String[] args) {
-		 int number, sum = 2;
-		 Scanner Sc = new Scanner(System.in);
+		 int number, sum = 0;
+		 Scanner sc = new Scanner(System.in);
 
 		 System.out.println("Enter a Integer value Which is below 10: ");  
-		 number = Sc.nextInt();
+		 number = sc.nextInt();
 
 		 while (number <= 16) {
 		 sum = sum + number;
@@ -16,4 +16,3 @@ public class WhileLoop {
 		 }
 		 System.out.format(" Sum of the Numbers From the While Loop is: %d ", sum);
 	}}
-

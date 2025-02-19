@@ -1,4 +1,4 @@
-package javaLabCard1;
+package OpenLabBook;
 
 public class CheckWhetherVowel {
 	public static void main(String[] args) {

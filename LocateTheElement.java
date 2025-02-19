@@ -1,4 +1,4 @@
-package CloseLabBook;
+package OpenLabBook;
 import java.util.Scanner;
 
 public class LocateTheElement {

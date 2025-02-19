@@ -1,4 +1,4 @@
-package javaLabCard1;
+package OpenLabBook;
 import java.util.Arrays;
 
 public class ReverseTheArray {
@@ -15,8 +15,8 @@ public class ReverseTheArray {
 	            arr[right] = temp;
 
 	            // Move pointers towards the middle
-	            left++;
-	            right--;
+	            left--;
+	            right++;
 	        }
 	    }
 
